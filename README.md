@@ -1,0 +1,1 @@
+This repo is to practice and prepare for coding interviews. All examples are from Grokking the coding interview found on educative.io.
